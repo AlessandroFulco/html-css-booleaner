@@ -1,6 +1,7 @@
 /* stili base del progetto */
 body {
     margin: 0;
+
 }
 
 
@@ -19,4 +20,12 @@ header img {
 
 main {
     margin: 5px;
+}
+
+section ul {
+    padding: 20px;
+}
+
+.highlighted span {
+    background-color: yellow;
 }
