@@ -28,6 +28,9 @@ main section h1 {
     font-size: 50px;
     margin: 0;
 }
+main section h3 {
+    margin-bottom: 20px;
+}
 main section h3 span {
     color: #26abe6;
 }
@@ -68,7 +71,7 @@ thead tr {
 /* stile footer */
 
 footer h3 {
-    margin-bottom: 10px;
+    margin: 30px 0 20px 0;
 }
 
 #computer {
