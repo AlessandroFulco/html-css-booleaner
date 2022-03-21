@@ -1,7 +1,6 @@
 /* stili base del progetto */
 body {
     margin: 0;
-
 }
 
 
@@ -16,16 +15,52 @@ header img {
     width: 300px;
 }
 
-/* stili corpo della pagina */
 
+/* stili corpo della pagina */
 main {
     margin: 5px;
 }
+main section h1 {
+    font-size: 50px;
+    margin: 0;
+}
+main section h3 {
+    margin: 0;
+    color: #848484;
+}
+main section h3 span {
+    color: #26abe6;
+}
 
+
+/* stile seconda sezione lista ul */
+.highlighted span {
+    background-color: yellow;
+}
 section ul {
     padding: 20px;
 }
 
-.highlighted span {
-    background-color: yellow;
+
+
+/* stili tabella */
+
+table {
+    border-collapse: collapse;
 }
+
+/* thead stile  */
+thead tr {
+    background-color: #20a9e5;
+    color: white;
+    text-align: left;
+}
+.first-second-column {
+    width: 25%;
+}
+
+/* tbody, tfoot stile */
+.colored-row {
+    background-color: #b1e5f2;
+}
+
