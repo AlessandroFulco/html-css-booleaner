@@ -14,3 +14,9 @@ header {
 header img {
     width: 300px;
 }
+
+/* stili corpo della pagina */
+
+main {
+    margin: 5px;
+}
