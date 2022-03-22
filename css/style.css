@@ -76,6 +76,7 @@ footer h3 {
     background-image: url(../img/monitor.jpg);
     background-size: contain; 
     background-repeat: no-repeat;
+    margin-bottom: 20px;
 }
 #graph {
     width: 312px;
@@ -87,5 +88,6 @@ footer h3 {
 .text-interest {
     padding: 10px;
     color: #fff;
+    margin: 0;
 }
 /* end stile footer */
