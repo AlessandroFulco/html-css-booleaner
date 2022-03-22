@@ -19,7 +19,7 @@ header img {
 }
 /* end stlile header */
 /* stili corpo della pagina */
-main, footer {
+main {
     margin: 5px;
 }
 main section h1 {
@@ -60,6 +60,9 @@ thead tr {
 }
 /* end stili tabella */
 /* stile footer */
+footer {
+    margin: 5px;
+}
 footer h3 {
     margin: 30px 0 20px 0;
 }
