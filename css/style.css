@@ -17,6 +17,7 @@ header {
 header img {
     width: 300px;
 }
+
 /* end stlile header */
 /* stili corpo della pagina */
 main {
@@ -31,6 +32,9 @@ main section h3 {
 }
 main section h3 span {
     color: #26abe6;
+}
+figure {
+    margin: 0;
 }
 /* end stili corpo della pagina */
 /* stile seconda sezione lista ul */
